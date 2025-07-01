@@ -37,7 +37,7 @@ log-analyzer-ai/
 │ └── mod.rs # declares ollama model structs
 │ └── ollama.rs # request/response structs for Ollama
 ├── README.md
-└── .env (optional)
+
 ```
 
 ---
