@@ -21,7 +21,7 @@ Built with:
 ---
 
 ## 📁 Project Structure
-
+```bash
 log-analyzer-ai/
 ├── Cargo.toml
 ├── src/
@@ -38,6 +38,7 @@ log-analyzer-ai/
 │ └── ollama.rs # request/response structs for Ollama
 ├── README.md
 └── .env (optional)
+```
 
 ---
 
